@@ -61,6 +61,13 @@ Aperte em " Run "
 
 cd C:\Users\Pichau\Desktop\optistock\frontend
 
+## 5.No terminal digite o codigo a baixo
+npm install
+
+## 6. Rode o codigo ou coloque este comando no terminal
+
+npm start
+
 ## Estrutura do Projeto
 ```
 OptiStock/
