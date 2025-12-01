@@ -108,8 +108,8 @@ O sistema foi validado utilizando o dataset Online Retail (UCI Machine Learning 
 
 ```
 Projeto desenvolvido para o curso de Ciência da Computação (CESUPA).
-[Everton Gustavo] - Backend & Math
-[Filipe Cesar] - Frontend & UI
-[Ian Carlos] - Data Analysis
+[Everton Gustavo] - 
+[Filipe Cesar] - 
+[Ian Carlos] -
 ```
 
